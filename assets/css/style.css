@@ -39,8 +39,8 @@ a:hover { color: var(--gold); }
 }
 .site-header .wrap { display: flex; align-items: center; justify-content: space-between; height: 68px; }
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--navy); }
-.brand img { width: 38px; height: 38px; }
-.brand span { font-family: var(--serif); font-weight: 600; font-size: 1.55rem; letter-spacing: 0.14em; }
+.brand .brand-cisne { width: 40px; height: 38px; }
+.brand .brand-nome { width: 120px; height: auto; }
 .nav { display: flex; gap: 22px; align-items: center; }
 .nav a { text-decoration: none; font-size: 0.92rem; color: var(--ink); }
 .nav a:hover { color: var(--gold); }
