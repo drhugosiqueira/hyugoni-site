@@ -114,6 +114,8 @@ section.dark .eyebrow { color: var(--gold-soft); }
 
 .cta { text-align: center; }
 .cta .lead { margin: 0 auto 26px; }
+.actions-center { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-bottom: 18px; }
+.contact-info { font-size: 0.88rem; color: var(--muted); margin: 0; }
 .notice {
   display: inline-block; border: 1px dashed var(--gold); padding: 14px 20px;
   font-size: 0.95rem; color: var(--ink); background: #fff; margin-bottom: 22px;
